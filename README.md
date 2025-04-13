@@ -1,2 +1,26 @@
-# trip-planner
-Trip Planner is your go-to platform for planning perfect trips! Discover exciting destinations, create personalized itineraries, book accommodations, and get travel tips all in one place. With an easy-to-use interface and seamless booking options, planning your next adventure has never been easier. Start your journey today!
+Expanse Voyage – Your Travel Planning Companion
+TripVibes is a PHP-based dynamic travel planning system that lets users explore destinations, plan trips, and manage bookings all in one place. Built with MySQL, it offers a smooth and interactive experience for both admins and users.
+
+🔧 Features:
+User registration & login system
+
+Admin dashboard for managing destinations and trip packages
+
+Add to cart & booking functionality (requires login)
+
+Dynamic content management via admin panel
+
+Destination details with images and descriptions
+
+Travel story/experience submission form
+
+Clean, responsive, and user-friendly interface
+
+🛠️ Technologies Used:
+PHP
+
+MySQL
+
+HTML, CSS, JavaScript
+
+Bootstrap (for responsive UI)
